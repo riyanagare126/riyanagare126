@@ -66,18 +66,6 @@
 
 ---
 
-## 📸 Project Spotlight: EduManage Student Management System
-
-> 🔗 **Repository:** [github.com/riyanagare126/Student_Management_System_01](https://github.com/riyanagare126/Student_Management_System_01)
-
-| **Admin Dashboard & Analytics** | **Role-Based 1-Click Login Portal** |
-| :---: | :---: |
-| ![Admin Dashboard](https://raw.githubusercontent.com/riyanagare126/riyanagare126/main/assets/1_Admin_Dashboard.png) | ![Login Portal](https://raw.githubusercontent.com/riyanagare126/riyanagare126/main/assets/2_Login_Portal.png) |
-| **360° Student Profile & Academic Transcript** | **2FA Protected Live Database Explorer** |
-| ![Student Profile](https://raw.githubusercontent.com/riyanagare126/riyanagare126/main/assets/3_Student_Profile_And_Marks.png) | ![Database Explorer](https://raw.githubusercontent.com/riyanagare126/riyanagare126/main/assets/4_Database_Explorer.png) |
-
----
-
 ## 📊 GitHub Analytics & Contributions
 
 <div align="center">
